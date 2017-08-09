@@ -1,0 +1,10 @@
+[Core]
+Name = Httping
+Module = httping
+
+[Documentation]
+Description = Ping http endpoints for availability
+
+[Python]
+Version = 2+
+
